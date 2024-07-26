@@ -46,3 +46,6 @@ To contribute to the Track C project, follow these steps:
 
 - Relevant notes from meetings will be stored in the `main` branch.
 - To access the latest notes, pull from the `main` branch: `git pull origin main`.
+
+## Github CheatSheet
+link - https://drive.google.com/drive/folders/1DVyeI_e6qlIQKbbWhXb3lr5HNL22CaFN

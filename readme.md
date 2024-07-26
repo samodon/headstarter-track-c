@@ -27,7 +27,7 @@ To contribute to the Track C project, follow these steps:
 
 1. **Clone the Repository**:
     - Clone the repository from the `individual` branch to your local machine.
-    - `git clone -b individual https://github.com/your-repo/track-c.git`
+    - `git clone -b individual https://github.com/samodon/headstarter-track-c.git`
 
 2. **Develop and Commit**:
     - Make your changes in your local `individual` branch.
